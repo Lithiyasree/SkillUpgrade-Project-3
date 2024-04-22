@@ -1,2 +1,2 @@
 # SkillUpgrade
-JAVA
+JAVA - Library Book Management System
